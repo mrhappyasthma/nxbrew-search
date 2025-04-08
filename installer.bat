@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed nxbrew_search.py
